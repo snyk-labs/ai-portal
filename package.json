@@ -11,6 +11,9 @@
     "test": "vitest",
     "coverage": "vitest run --coverage"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@auth/supabase-adapter": "^0.1.4",
     "@dqbd/tiktoken": "^1.0.7",
