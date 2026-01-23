@@ -38,13 +38,13 @@
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
     "react-i18next": "^12.2.0",
-    "react-markdown": "^8.0.5",
+    "react-markdown": "^9.0.0",
     "react-syntax-highlighter": "^15.5.0",
     "reflect-metadata": "^0.1.13",
     "rehype-katex": "^7.0.0",
     "rehype-raw": "^6.1.1",
-    "remark-gfm": "^3.0.1",
-    "remark-math": "^5.1.1",
+    "remark-gfm": "^4.0.0",
+    "remark-math": "^6.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
