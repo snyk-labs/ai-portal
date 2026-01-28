@@ -29,7 +29,7 @@
     "i18next": "^22.4.13",
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^9.0.0",
-    "next": "^13.4.12",
+    "next": "^15.5.10",
     "next-auth": "^4.22.1",
     "next-i18next": "^13.2.2",
     "nodemailer": "^6.9.5",
