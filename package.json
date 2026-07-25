@@ -12,7 +12,7 @@
     "coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@auth/supabase-adapter": "^0.1.4",
+    "@auth/supabase-adapter": "^1.11.3",
     "@dqbd/tiktoken": "^1.0.7",
     "@next-auth/supabase-adapter": "^0.2.1",
     "@radix-ui/react-scroll-area": "^1.0.4",
@@ -30,7 +30,7 @@
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^9.0.0",
     "next": "^13.4.12",
-    "next-auth": "^4.22.1",
+    "next-auth": "^4.24.15",
     "next-i18next": "^13.2.2",
     "nodemailer": "^6.9.5",
     "openai": "^3.2.1",
